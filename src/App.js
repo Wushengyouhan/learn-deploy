@@ -1,5 +1,5 @@
 import { lazy, Suspense } from "react";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-routerY-dom";
 
 // import BlogPage, { loader as postsLoader } from "./pages/Blog";
 import HomePage from "./pages/Home";
